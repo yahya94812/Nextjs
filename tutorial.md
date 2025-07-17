@@ -68,3 +68,8 @@ Let's create a database to start fetching real data!
 2. Set up a Vercel account and link your GitHub repo for instant previews and deployments.
 3. Create and link your project to a Postgres database.
 4. Seed the database with initial data.
+* please refer doc tutorial it self
+
+# 7: Fetching Data
+
+Let's discuss the different ways you can fetch data from your database, including using APIs, SQL, and alternatives.
